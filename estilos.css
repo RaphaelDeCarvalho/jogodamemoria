@@ -1,0 +1,41 @@
+body {
+    background-color: rgb(127, 199, 199);
+  }
+  p {
+    background-color: whitesmoke;
+    font-family: calibri;
+    font-size: 22px;
+    width: 182px;
+    margin-top: 95px;
+    margin-bottom: -80px;
+    margin-left: 116px;
+    border: 1px solid black;
+    padding-top: 20px;
+    padding-bottom: 90px;
+    padding-left: 75px;
+    padding-right: 80px;
+    text-align: center;
+    box-shadow: 10px 10px 6px 0px #5a5f73;
+  }
+  
+  button {
+    border: 1px solid #582e02;
+    background-color: #582e02;
+    color: white;
+    font-size: 16px;
+    margin-left: 207px;
+    margin-top: inherit;
+    padding: 4px;
+    width: 150px;
+    height: 50px;
+    transition-duration: 0.3s;
+  }
+  button:hover {
+    background-color: #6f351352;
+    border: 2px solid #582e02;
+    color: black;
+  }
+  button:active {
+    transform: translateY(2px);
+  }
+  
