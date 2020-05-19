@@ -5,17 +5,18 @@ body {
     background-color: whitesmoke;
     font-family: calibri;
     font-size: 22px;
-    width: 182px;
-    margin-top: 95px;
+    width: 180px;
+    margin-top: 35vh;
     margin-bottom: -80px;
-    margin-left: 116px;
+    margin-left: auto;
+    margin-right: auto;
     border: 1px solid black;
     padding-top: 20px;
     padding-bottom: 90px;
     padding-left: 75px;
     padding-right: 80px;
     text-align: center;
-    box-shadow: 10px 10px 6px 0px #5a5f73;
+    box-shadow: 8px 8px 6px 0px #5a5f73;
   }
   
   button {
@@ -23,12 +24,13 @@ body {
     background-color: #582e02;
     color: white;
     font-size: 16px;
-    margin-left: 207px;
-    margin-top: inherit;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     padding: 4px;
     width: 150px;
     height: 50px;
-    transition-duration: 0.3s;
+    transition-duration: 0.2s;
   }
   button:hover {
     background-color: #6f351352;
